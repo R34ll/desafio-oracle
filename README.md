@@ -1,0 +1,2 @@
+# Desafio Oracle ONE
+Este desafio, proposto pela Oracle ONE, consiste na construção de uma interface web utilizando HTML e CSS. A aplicação permitirá que os usuários codifiquem e decodifiquem mensagens em Base64 de forma simples e intuitiva.
